@@ -9,8 +9,8 @@ main1.py
 ours_vit*.py
 ours_vit*.sh
 STSA copy.py
+script/
 *.log
 main1.sh
 logs
 *.pkl
-script
