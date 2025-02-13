@@ -1,0 +1,15 @@
+wandb
+run
+exps
+__pycache__
+ckpt
+.idea
+.vscode
+main1.py
+ours_vit*.py
+ours_vit*.sh
+STSA copy.py
+*.log
+main1.sh
+logs
+*.pkl
