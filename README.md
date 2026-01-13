@@ -1,4 +1,4 @@
-# STSAs
+# STSA
 ## Introduction
 This repository is the official implementation of the WWW 2026 paper "Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation".
 
