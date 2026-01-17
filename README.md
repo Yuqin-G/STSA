@@ -16,7 +16,7 @@ nohup sh ./main.sh "$tasks" "$seed" "$dataset" "$beta" "$com_round" "$local_ep" 
 For STSA-E, set `args["type"] = 1` in main.py
 
 ## Acknowledgements
-Our codebase is adapted from [LANDER](https://github.com/tmtuan1307/LANDER), [LAMDA-PILOT](https://github.com/LAMDA-CL/LAMDA-PILOT). We thank the authors for releasing their code!
+Our codebase is adapted from [LANDER](https://github.com/tmtuan1307/LANDER), [LAMDA-PILOT](https://github.com/LAMDA-CL/LAMDA-PILOT). We thank the authors for their code!
 
 
 ## BibTeX & Citation
